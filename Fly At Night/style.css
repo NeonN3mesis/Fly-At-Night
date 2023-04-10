@@ -1,0 +1,145 @@
+/* Main container */
+.container-fluid,
+.row {
+  background-color: #1f1f1f !important;
+  color: #f5f5f5 !important;
+}
+
+/* Video player container */
+.video-js {
+  background-color: #141414 !important;
+}
+
+/* Video thumbnail overlays */
+.play-video-overlay {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* Main video title */
+.main-video-title {
+  color: #f5f5f5 !important;
+}
+
+/* Description text */
+.description-text {
+  color: #d1d1d1 !important;
+}
+
+/* Toggle buttons */
+.btn-primary {
+  background-color: #1e1e1e !important;
+  border-color: #d1d1d1 !important;
+  color: #f5f5f5 !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #333333 !important;
+  border-color: #d1d1d1 !important;
+}
+
+/* Social media icons */
+.social-media-icons svg {
+  fill: #f5f5f5 !important;
+}
+
+.social-media-icons a:hover svg {
+  fill: #ffffff !important;
+}
+
+/* Subscription button */
+.subscription-button {
+  background-color: #1e1e1e !important;
+  border-color: #d1d1d1 !important;
+  color: #f5f5f5 !important;
+}
+
+.subscription-button:hover,
+.subscription-button:focus,
+.subscription-button:active {
+  background-color: #333333 !important;
+  border-color: #d1d1d1 !important;
+}
+
+/* Additional specific elements for floatplane.com */
+/* Add more custom CSS styles targeting different elements on the website as needed. */
+
+/* General dark background */
+body,
+html {
+  background-color: #1f1f1f !important;
+}
+
+/* Adjust link colors */
+a {
+  color: #00c7ff !important;
+}
+
+a:hover {
+  color: #00e0ff !important;
+}
+
+/* Navbar */
+header {
+  background-color: #141414 !important;
+  border-bottom: 1px solid #303030 !important;
+}
+
+header a {
+  color: #f5f5f5 !important;
+}
+
+header a:hover {
+  color: #00c7ff !important;
+}
+
+/* Video titles and creator names */
+.card-title,
+.video-creator-name,
+.video-title {
+  color: #f5f5f5 !important;
+}
+
+/* Video cards */
+.video-card {
+  background-color: #1e1e1e !important;
+  border-color: #303030 !important;
+}
+
+/* Video player controls */
+.vjs-control-bar {
+  background-color: #1e1e1e !important;
+  color: #f5f5f5 !important;
+}
+
+/* Comment section */
+.comment-section {
+  background-color: #1e1e1e !important;
+}
+
+.comment-body {
+  color: #d1d1d1 !important;
+}
+
+.comment-author {
+  color: #00c7ff !important;
+}
+
+/* Footer */
+.footer {
+  background-color: #141414 !important;
+  border-top: 1px solid #303030 !important;
+  color: #f5f5f5 !important;
+}
+
+.footer a {
+  color: #f5f5f5 !important;
+}
+
+.footer a:hover {
+  color: #00c7ff !important;
+}
+
+/* Additional CSS rules */
+/* Add your custom CSS styles for different elements on the website here. */
