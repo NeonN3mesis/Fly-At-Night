@@ -1,3 +1,5 @@
 if (chrome.extension.getStorage().get("nightMode") === "true") {
-  document.body.classList.add("night-mode");
+  if (document.querySelector("body").classList.contains("floatplane-page")) {
+    document.body.classList.add("night-mode");
+  }
 }
