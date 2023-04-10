@@ -1,0 +1,23 @@
+# Fly-At-Night
+
+This is an extension for changing beta.floatplane.com to dark mode.
+
+## Installation
+
+1. Clone the repository
+2. Open Chrome and navigate to `chrome://extensions/`
+3. Enable Developer Mode
+4. Click "Load unpacked"
+5. Select the cloned repository
+
+## Usage
+
+1. Navigate to beta.floatplane.com
+2. Click the extension icon in the top right corner of your browser window
+3. Enjoy your new dark mode!
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate
