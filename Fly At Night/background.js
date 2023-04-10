@@ -13,9 +13,3 @@ chrome.browserAction.onClicked.addListener(function() {
     });
   }
 });
-
-// In the file `contentscript.js`, add the following code:
-
-if (chrome.extension.getStorage().get("nightMode") === "true") {
-  document.body.classList.add("night-mode");
-}
